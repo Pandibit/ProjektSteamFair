@@ -6,9 +6,3 @@
     --trans: all 0.3s ease-in-out;
 }
 
-.navbar
-{
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
